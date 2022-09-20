@@ -1,0 +1,12 @@
+.main_post{
+	border: 1px solid red;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.post_left {
+padding-bottom: 10px;
+padding-left: 15px;
+}
